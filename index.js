@@ -1,7 +1,6 @@
 const tries = 6;
 let random = [];
 let guesses = 1;
-let guessed = false; 
 
 let userConsent = confirm(
   "Welcome to 'Guessing Game' click okay below to play!"
